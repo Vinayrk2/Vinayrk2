@@ -1,11 +1,14 @@
 ## Hi there 👋
 
+👋 Hi, I'm Vinay Koshti!
+💻 Full Stack Developer | 🚀 Optimum code dev. | 🌟 Tech Enthusiast
+
+- 🔭 I’m currently working on the repository for the portfolio website, where everyone can have their portfolio in just 5mins.
 <!--
 **Vinayrk2/Vinayrk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
