@@ -50,6 +50,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 <!--
 **Vinayrk2/Vinayrk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
