@@ -39,9 +39,9 @@
 #### [Understanding Bhagwad Geeta](https://bhagwatgeeta.netlify.app/)
 - A comprehensive platform to explore the teachings of the Bhagavad Gita.
 - **Tech Stack**: 
-  |-----------------------------------------------------------|
+  |---------------|--------------|-------------|--------------|
   |     HTML      |      css     |  Javascript |   Bootstrap  |
-  |-----------------------------------------------------------|     
+  |---------------|--------------|-------------|--------------|     
 ---
 
 ### 📊 GitHub Stats
