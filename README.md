@@ -23,7 +23,8 @@
 
 #### Database Management
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&width=120)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&width=120)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&width=120)
+ ![Postgre](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=postgre&logoColor=white&width=120)
 
 #### Tools & Others
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&width=120)
