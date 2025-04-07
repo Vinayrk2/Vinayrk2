@@ -83,7 +83,7 @@ Find developers by skill set, location, and availability. Filtering and portfoli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayrk2&layout=compact&theme=radical)
 
 ---
-
+<!---
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
@@ -91,7 +91,4 @@ Find developers by skill set, location, and availability. Filtering and portfoli
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-🔭 Currently working on the **Portfolio Builder** project — create your portfolio in just 5 minutes!
+--->
