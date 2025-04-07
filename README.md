@@ -24,14 +24,16 @@
 #### Database Management
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&width=120)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&width=120)
- ![Postgre](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=postgre&logoColor=white&width=120)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### Tools & Others
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&width=120)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&width=120)
-- ![ChatGPT](https://img.shields.io/badge/-ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white&width=120)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&width=120)
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&width=120)
+ ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&width=120)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&width=120)
+ ![ChatGPT](https://img.shields.io/badge/-ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white&width=120)
+ ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&width=120)
+ ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+ ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&width=120)
 
 ---
 
